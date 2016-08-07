@@ -6,11 +6,14 @@
 # Works fine with double NAT 
 #
 # Based on https://www.dynu.com/DynamicDNS/IPUpdateClient/Mikrotik-Dynamic-DNS
+# 
 # Only change the arguments below:
-		- line 31 YOUR-DYNU-USERNAME					test
-		- line 32 "YOUR-DYNU-PASSWORD"				    "123test"
-		- line 33 "YOUR-DYNU-DOMAIN"					"test.dynu.com"
-	
+		- line 34 YOUR-DYNU-USERNAME					test
+		- line 35 "YOUR-DYNU-PASSWORD"				    	"123test"
+		- line 36 "YOUR-DYNU-DOMAIN"					"test.dynu.com"
+###############################################################################################################	
+		
+		
 		
 ############# Get the current IP address from the internet ############ 
 
