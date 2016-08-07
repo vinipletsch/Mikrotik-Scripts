@@ -1,0 +1,33 @@
+
+15:44:33 script,info ----------------Updating Dynu IP Address----------------- 
+
+15:44:33 info fetch: file "dynu.checkip.html" downloaded 
+
+15:44:34 info fetch: file "Dynu.test.dynu.com" downloaded 
+
+15:44:34 script,info Current IP Address: XXX.XXX.XXX.XXX 
+
+15:44:34 script,info DynuDDNS: IP-Dynu = 10.0.0.1 
+
+15:44:34 script,info DynuDDNS: IP-Fresh = XXX.XXX.XXX.XXX 
+
+15:44:34 script,info DynuDDNS: Update IP needed, Sending UPDATE...! 
+
+15:44:34 info fetch: file "Dynu.test.dynu.com" downloaded 
+
+15:44:35 script,info DynuDDNS: IP updated to XXX.XXX.XXX.XXX! 
+
+15:44:35 script,info  ----------------------------------------------------------
+
+
+################################################################################
+
+15:57:47 script,info ----------------Updating Dynu IP Address----------------- 
+
+15:57:48 info fetch: file "dynu.checkip.html" downloaded 
+
+15:57:48 script,info Current IP Address: XXX.XXX.XXX.XXX 
+
+15:57:48 script,info DynuDDNS: No change needed 
+
+15:57:48 script,info -----------------------------------------------------------
